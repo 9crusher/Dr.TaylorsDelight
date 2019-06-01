@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class ExceptionalClass {
     public static void main(String[] args) {
-        System.out.println(findMeSomeDollarAmount(66480.00));
+        System.out.println(findMeSomeDollarAmount(7530000000.0 - 66480.00));
 
     }
 
